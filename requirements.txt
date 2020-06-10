@@ -1,0 +1,5 @@
+Flask==1.1.2
+sklearn
+numpy
+google-cloud-storage
+google-cloud-bigquery
